@@ -1,9 +1,9 @@
 # Introduction
 This is the implementation of the paper [Breaking Free from Fusion Rule: A Fully Semantic-driven Infrared and Visible Image Fusion
 ](https://arxiv.org/abs/2211.12286).
-The main contribution is that we prove the feasibility of discarding manu-crafted fusion rules and only let the semantic segmentation task determine the fusion effect.
+The main contribution is that we prove the feasibility of discarding hand-crafted fusion rules and only let the semantic segmentation task determine the fusion effect.
 
-Here is comparison with two typical semantic-driven fusion methods, the results show that ours outperform other semantic-driven methods by discarding fusion rules, liberate the functionality of the semantic task.
+Here is a comparison of two typical semantic-driven fusion methods, the results show that ours outperform other semantic-driven methods by discarding fusion rules, and liberate the functionality of the semantic task.
 
 ![a](https://github.com/wyh1210/BFFR/blob/master/figs/comparison.png)
 
