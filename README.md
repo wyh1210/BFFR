@@ -5,12 +5,12 @@ The main contribution is that we prove the feasibility of discarding manu-crafte
 
 Here is comparison with two typical semantic-driven fusion methods, the results show that ours outperform other semantic-driven methods by discarding fusion rules, liberate the functionality of the semantic task.
 
-![a](https://github.com/wyh1210/BFFR/tree/main/figs/comparison.png)
+![a](https://github.com/wyh1210/BFFR/blob/master/figs/comparison.png)
 
 We remove some semantic classes during the training process, results show that the semantic information is enough to determine how to fuse.
 ![image](https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png)
 
-![b](https://github.com/wyh1210/BFFR/tree/main/figs/remove_class.png)
+![b](https://github.com/wyh1210/BFFR/blob/master/figs/remove_class.png)
 
 # Requirements
 Install mmsegmentation package as following:
