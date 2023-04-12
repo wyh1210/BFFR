@@ -8,7 +8,6 @@ Here is comparison with two typical semantic-driven fusion methods, the results 
 ![a](https://github.com/wyh1210/BFFR/blob/master/figs/comparison.png)
 
 We remove some semantic classes during the training process, results show that the semantic information is enough to determine how to fuse.
-![image](https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png)
 
 ![b](https://github.com/wyh1210/BFFR/blob/master/figs/remove_class.png)
 
