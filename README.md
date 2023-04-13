@@ -21,7 +21,7 @@ pip install -e .
 The `cuda` and `torch` version can be arbitrary, but you have to install `mmcv-full<=1.5.0` to meet the requirements of the `./mmseg` module in this repository.
 
 # Datasets
-You can download the [MFNet dataset](https://drive.google.com/drive/folders/18BQFWRfhXzSuMloUmtiBRFrr6NSrf8Fw), and put it in ./data/ . You need to split the source images of 4 channels into RGB images of 3 channels and thermal images of 1 channel, in `png` format. Use `tools/seprate.py` for splitting.
+You can download the [MFNet dataset]([https://drive.google.com/drive/folders/18BQFWRfhXzSuMloUmtiBRFrr6NSrf8Fw](https://drive.google.com/file/d/1VxTVJ0O72i-dcmfwUThPCDoYwVKIuyri/view?usp=sharing)), and put it in ./data/ .
 
 # Test with the given model
 Download the given model [here](https://drive.google.com/file/d/1BhkaEmb9AipI2Ib7pjSw1zwWoSy86X00/view?usp=share_link). Put it in ./weights/.
