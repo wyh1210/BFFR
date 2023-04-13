@@ -21,7 +21,7 @@ pip install -e .
 The `cuda` and `torch` version can be arbitrary, but you have to install `mmcv-full<=1.5.0` to meet the requirements of the `./mmseg` module in this repository.
 
 # Datasets
-You can download the [MFNet dataset]([https://drive.google.com/drive/folders/18BQFWRfhXzSuMloUmtiBRFrr6NSrf8Fw](https://drive.google.com/file/d/1VxTVJ0O72i-dcmfwUThPCDoYwVKIuyri/view?usp=sharing)), and put it in ./data/ .
+You can download the [MFNet dataset](https://drive.google.com/file/d/1VxTVJ0O72i-dcmfwUThPCDoYwVKIuyri/view?usp=sharing), and put it in ./data/ .
 
 # Test with the given model
 Download the given model [here](https://drive.google.com/file/d/1BhkaEmb9AipI2Ib7pjSw1zwWoSy86X00/view?usp=share_link). Put it in ./weights/.
