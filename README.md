@@ -11,6 +11,8 @@ We remove some semantic classes during the training process, results show that t
 
 ![b](https://github.com/wyh1210/BFFR/blob/master/figs/remove_class.png)
 
+# Results
+Directly [download](https://drive.google.com/file/d/14XbY8Op8z9jmxu3fTS8G57HBWhxagtbR/view?usp=share_link) Fusion results on MFNet, TNO and RoadScene datasets.
 # Requirements
 Install mmsegmentation package as following:
 ```
